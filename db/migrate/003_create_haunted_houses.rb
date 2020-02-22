@@ -1,1 +1,1 @@
-class Haunted
+class CreateHauntedHouses < 
